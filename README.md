@@ -4,7 +4,7 @@ Allows changing the tickrate of the server at runtime.
 Thanks to [ficool2](https://github.com/ficool2) for discovering this method.
 
 > [!NOTE]
-> As of now, this only supports **Team Fortress 2** on **Linux**.
+> As of now, this only supports **Team Fortress 2** on **32-Bit Linux**.
 >
 > Anyone is free to contribute gamedata and functionality for other games and platforms, but I probably won't do it myself.
 
